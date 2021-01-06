@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 12px;
+ }
+
+ header{
+     text-align: center;
+ }
+ img{
+     height: auto;
+     width: 150px;
+ }
+.contact{
+    font-weight: bold;
+}
+
+.taxes{
+    font-weight: normal;
+}
+
+.condition{
+    font-weight: bold;
+}
+.sanction{
+    font-size: 10px;
+}
+
+.etoile{
+    width: 45px;
+    height: auto;
+}
+
+.bg_gris{
+    background: #808080;
+    color:white;
+}
